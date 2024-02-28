@@ -1,12 +1,12 @@
 # cpp_test
 
-# Project
+### Project
 Вращение кубика левой кнопкой мыши
 
-# Lib
+### Lib
 OpenGL
 
-# Build
+### Build
 cd build/Desctop-Debug
 ./test_1
 
